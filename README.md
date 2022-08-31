@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Web**
 
-- 💬 Ask me about **Lua**
-
 - 📫 How to reach me **sefikbaba99@gmail.com**
 
 - ⚡ Fun fact **I think I funny**
