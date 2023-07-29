@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sefik</h1>
+<h1 align="center">Hi 👋, I'm Altan</h1>
 <h3 align="center">A Web developer from Bosnia and Herzegovina</h3>
 
 - 🔭 I’m currently working on **My Knowledge**
 - 🌱 I’m currently learning **Web**
 
-- 📫 How to reach me **sefikbaba99@gmail.com**
+- 📫 How to reach me **altan.borancic@icloud.com**
 
 - ⚡ Fun fact **I think I funny**
 
